@@ -1,0 +1,6 @@
+/* Ajoutez cette règle pour appliquer une marge à tout le corps de la page */
+body {
+    margin: 20px; /* Ajustez la valeur selon vos besoins */
+}
+
+/* ... code CSS existant ... */
